@@ -1,0 +1,63 @@
+.x{
+font-family: 'Playfair Display', serif;
+color:rgb(1, 241, 181);
+background-image: url("https://light.pawa.cl/img/2021/05/01122547/Snapdragon-778G-5G-Mobile-Platform-Key-Visual-Vertical-Angle.png") ;
+border: 10px dotted rgb(1, 241, 181);
+text-shadow: rgb(69, 159, 201);
+border-radius:70px ;
+
+}
+
+.glosario{
+   color: yellow;
+background-color: blueviolet;
+border: 5px dotted yellow;
+border-radius: 20px;
+padding: 30px;
+margin: 30px;
+}
+
+body{
+background: rgb(44, 115, 247);
+background: -webkit-linear-gradient(90deg, rgb(129, 1, 1) 10%, rgb(3, 223, 95) 90%, blue);	
+}
+
+img{
+   display:block;
+   margin:auto;
+   }
+
+
+nav ul{
+   text-align: center;
+   background-color: black;
+   color: aliceblue;
+   padding: 20px;
+}
+
+nav ul{
+   background-color: rgb(1, 119, 119);
+   width: 100%;
+   list-style-type: none;
+   text-align: center;
+   border-radius: 20px;
+}
+
+nav li{
+   display: inline-flex;
+
+}
+
+nav a{
+   text-decoration: none;
+   color: white;
+   padding: 10px;
+   width: 150px;
+}
+
+nav li:hover {
+   background-color: rgb(43, 55, 124);
+   border-radius: 20px;
+   border: 5px dotted rgb(20, 147, 151);
+
+}
